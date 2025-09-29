@@ -1,4 +1,4 @@
-package basic;
+package calc;
 public class operators {
     public static void main(String[] args) {
         int a=5;

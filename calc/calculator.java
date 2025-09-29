@@ -1,9 +1,9 @@
 
-import package_demo.operation1;
+package calc;
 
 public class calculator {
     public static void main(String[] args) {
-        operation1 a1 = new operation1();
+        add a1 = new add();
         a1.addition();
     }
 }
