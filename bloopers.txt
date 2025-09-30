@@ -1,1 +1,3 @@
 main method can actually be overloaded
+final -- once declared no change 
+static -- comoon for all but can be changesf
